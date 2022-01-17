@@ -6,29 +6,28 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Santhora (HD)" tvg-language="Tamil" tvg-logo="http://santhora.tv/wp-content/uploads/2019/05/header-logo-anim.gif"
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
 # Adhavan TV (720p)
-#EXTINF:-1 tvg-id="" tvg-name="Adhavan (HD)" tvg-language="Tamil" tvg-logo="http://athavantv.com/wp-content/uploads/2019/06/xathavantv1.png.pagespeed.ic.rypwtIs9Ft.png"
+#EXTINF:-1 tvg-id="" tvg-name="Adhavan (HD)" tvg-language="Tamil" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/09/Aathavan-TV.jpg"
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 # 3Tamil TV (720p)
 #EXTINF:-1 tvg-id="" tvg-name="3 Tamil (HD)" tvg-language="Tamil" tvg-logo="https://threetamil.tv/wp-content/uploads/2020/08/3Tamil_logo_white.png"
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-
 # Relax TV (576p)
 #EXTINF:-1 tvg-id="" tvg-name="Relax TV (SD)" tvg-language="Tamil" tvg-logo="" group-title="Tamil (தமிழ்)"
 http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR
 # Tamil Vision TV (1080p)
-#EXTINF:-1 tvg-id="" tvg-name="Tamil Vision (HD)" tvg-language="Tamil" tvg-logo="" group-title="Tamil (தமிழ்)"
+#EXTINF:-1 tvg-id="" tvg-name="Tamil Vision (HD)" tvg-language="Tamil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/TVI_HD_logo.png" group-title="Tamil (தமிழ்)"
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 # Vaanvavil (576p)
-#EXTINF:-1 tvg-id="" tvg-name="Vaanavil (SD)" tvg-language="Tamil" tvg-logo="" group-title="Tamil (தமிழ்)"
+#EXTINF:-1 tvg-id="" tvg-name="Vaanavil (SD)" tvg-language="Tamil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Vaanavil_English_Logo.gif" group-title="Tamil (தமிழ்)"
 http://14.199.164.20:4001/play/a0nx/index.m3u8
 # Isai Aruvi (576p)
-#EXTINF:-1 tvg-id="" tvg-name="Isai Aruvi (SD)" tvg-language="Tamil" tvg-logo="" group-title="Tamil (தமிழ்)"
+#EXTINF:-1 tvg-id="" tvg-name="Isai Aruvi (SD)" tvg-language="Tamil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Isai_Aruvi.jpeg/revision/latest/scale-to-width-down/200?cb=20191224121230" group-title="Tamil (தமிழ்)"
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 # Sirippoli (576p)
-#EXTINF:-1 tvg-id="" tvg-name="Sirippoli (SD)" tvg-language="Tamil" tvg-logo="" group-title="Tamil (தமிழ்)"
+#EXTINF:-1 tvg-id="" tvg-name="Sirippoli (SD)" tvg-language="Tamil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Sirippoli_tv.jpg" group-title="Tamil (தமிழ்)"
 http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
 # Marutam TV (720p)
-#EXTINF:-1 tvg-id="" tvg-name="Marutam (HD)" tvg-language="Tamil" tvg-logo="" group-title="Tamil (தமிழ்)"
+#EXTINF:-1 tvg-id="" tvg-name="Marutam (HD)" tvg-language="Tamil" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/06/Marutam.jpg" group-title="Tamil (தமிழ்)"
 http://mntv.livebox.co.in/mntvhls/mntv.m3u8
 
 # Others
