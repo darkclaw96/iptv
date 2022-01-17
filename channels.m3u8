@@ -34,6 +34,9 @@ http://14.199.164.20:4001/play/a0nx/index.m3u8
 #EXTGRP: Tamil (தமிழ்)
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 
+#EXTINF:-1 tvg-name="Sirippoli (SD)" tvg-language="Tamil" tvg-logo="",Sirippoli (576p)
+#EXTGRP: Tamil (தமிழ்)
+http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
 
 #
 #
@@ -45,14 +48,6 @@ http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:-1,Imayam (480p)
 #EXTGRP: Tamil (தமிழ்)
 https://idvd.multitvsolution.com/idvo/imayamtv.m3u8
-
-#EXTINF:-1,Kalaignar Murasu (576p)
-#EXTGRP: Tamil (தமிழ்)
-http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
-
-#EXTINF:-1,Kalaignar Sirippoli (576p)
-#EXTGRP: Tamil (தமிழ்)
-http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
 
 #EXTINF:-1,Malaimurasu (480p)
 #EXTGRP: Tamil (தமிழ்)
