@@ -20,104 +20,104 @@ https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f
 # 
 #
 
-#EXTINF:20,7S Music (576p) [Not 24/7]
+#EXTINF:-1,7S Music (576p) [Not 24/7]
 #EXTGRP: Tamil (தமிழ்)
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 
-#EXTINF:0,Captain TV (576p) [Not 24/7]
+#EXTINF:-1,Captain TV (576p) [Not 24/7]
 #EXTGRP: Tamil (தமிழ்)
 http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
 
-#EXTINF:0,EET TV (1080p) [Not 24/7]
+#EXTINF:-1,EET TV (1080p) [Not 24/7]
 #EXTGRP: Tamil (தமிழ்)
 https://live.streamjo.com/eetlive/eettv.m3u8
 
-#EXTINF:0,Imayam (480p) [Not 24/7]
+#EXTINF:-1,Imayam (480p) [Not 24/7]
 #EXTGRP: Tamil (தமிழ்)
 https://idvd.multitvsolution.com/idvo/imayamtv.m3u8
 
-#EXTINF:0,Isai Aruvi (576p)
+#EXTINF:-1,Isai Aruvi (576p)
 #EXTGRP: Tamil (தமிழ்)
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 
-#EXTINF:0,Kalaignar Murasu (576p) [Not 24/7]
+#EXTINF:-1,Kalaignar Murasu (576p) [Not 24/7]
 #EXTGRP: Tamil (தமிழ்)
 http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
 
-#EXTINF:0,Kalaignar Seithikal (576p) [Not 24/7]
+#EXTINF:-1,Kalaignar Seithikal (576p) [Not 24/7]
 #EXTGRP: Tamil (தமிழ்)
 http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8
 
-#EXTINF:0,Kalaignar Sirippoli (576p)
+#EXTINF:-1,Kalaignar Sirippoli (576p)
 #EXTGRP: Tamil (தமிழ்)
 http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
 
-#EXTINF:0,Malaimurasu (480p) [Not 24/7]
+#EXTINF:-1,Malaimurasu (480p) [Not 24/7]
 #EXTGRP: Tamil (தமிழ்)
 https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
 
-#EXTINF:0,Marutam TV (720p) [Not 24/7]
+#EXTINF:-1,Marutam TV (720p) [Not 24/7]
 #EXTGRP: Tamil (தமிழ்)
 http://mntv.livebox.co.in/mntvhls/mntv.m3u8
 
-#EXTINF:0,MK Six (576p) [Not 24/7]
+#EXTINF:-1,MK Six (576p) [Not 24/7]
 #EXTGRP: Tamil (தமிழ்)
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 
-#EXTINF:0,MK Tunes (576p) [Not 24/7]
+#EXTINF:-1,MK Tunes (576p) [Not 24/7]
 #EXTGRP: Tamil (தமிழ்)
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 
-#EXTINF:0,MK TV (576p) [Not 24/7]
+#EXTINF:-1,MK TV (576p) [Not 24/7]
 #EXTGRP: Tamil (தமிழ்)
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 
-#EXTINF:0,Peppers (576p) [Not 24/7]
+#EXTINF:-1,Peppers (576p) [Not 24/7]
 #EXTGRP: Tamil (தமிழ்)
 http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8
 
-#EXTINF:0,Polimer TV (404p) [Not 24/7]
+#EXTINF:-1,Polimer TV (404p) [Not 24/7]
 #EXTGRP: Tamil (தமிழ்)
 #EXTVLCOPT:http-user-agent=AsianetMobileTVPlus
 http://cdn.asianetmobiletvplus.com/channels/polimertv_rpvpvdefkpxbafsouzockpitjldtogrr/chunks.m3u8
 
-#EXTINF:0,Puthiya Thalaimurai (1080p) [Not 24/7]
+#EXTINF:-1,Puthiya Thalaimurai (1080p) [Not 24/7]
 #EXTGRP: Tamil (தமிழ்)
 https://www.youtube.com/channel/UCmyKnNRH0wH-r8I-ceP-dsg/live
 
-#EXTINF:0,Puthuyugam TV (576p) [Not 24/7]
+#EXTINF:-1,Puthuyugam TV (576p) [Not 24/7]
 #EXTGRP: Tamil (தமிழ்)
 http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
 
-#EXTINF:0,Relax TV (576p) [Not 24/7]
+#EXTINF:-1,Relax TV (576p) [Not 24/7]
 #EXTGRP: Tamil (தமிழ்)
 http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR
 
-#EXTINF:0,Sana Plus (720p) [Not 24/7]
+#EXTINF:-1,Sana Plus (720p) [Not 24/7]
 #EXTGRP: Tamil (தமிழ்)
 http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
 
-#EXTINF:27,Sana TV (576p) [Not 24/7]
+#EXTINF:-1,Sana TV (576p) [Not 24/7]
 #EXTGRP: Tamil (தமிழ்)
 http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
 
-#EXTINF:0,Sathiyam TV (1080p) [Not 24/7]
+#EXTINF:-1,Sathiyam TV (1080p) [Not 24/7]
 #EXTGRP: Tamil (தமிழ்)
 https://www.youtube.com/channel/UC2ziCMHFPWkFHjocUMXT__Q/live
 
-#EXTINF:24,Tamil Vision TV (1080p)
+#EXTINF:-1,Tamil Vision TV (1080p)
 #EXTGRP: Tamil (தமிழ்)
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 
-#EXTINF:11,Vaanvavil (576p) [Not 24/7]
+#EXTINF:-1,Vaanvavil (576p) [Not 24/7]
 #EXTGRP: Tamil (தமிழ்)
 http://14.199.164.20:4001/play/a0nx/index.m3u8
 
-#EXTINF:30,Velicham (360p) [Not 24/7]
+#EXTINF:-1,Velicham (360p) [Not 24/7]
 #EXTGRP: Tamil (தமிழ்)
 https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
 
-#EXTINF:30,Yupp Thirai (270p)
+#EXTINF:-1,Yupp Thirai (270p)
 #EXTGRP: Tamil (தமிழ்)
 http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
 
