@@ -24,14 +24,6 @@ https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f
 #EXTGRP: Tamil (தமிழ்)
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 
-#EXTINF:-1,Captain TV (576p) [Not 24/7]
-#EXTGRP: Tamil (தமிழ்)
-http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
-
-#EXTINF:-1,EET TV (1080p) [Not 24/7]
-#EXTGRP: Tamil (தமிழ்)
-https://live.streamjo.com/eetlive/eettv.m3u8
-
 #EXTINF:-1,Imayam (480p) [Not 24/7]
 #EXTGRP: Tamil (தமிழ்)
 https://idvd.multitvsolution.com/idvo/imayamtv.m3u8
@@ -118,14 +110,12 @@ https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
 http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
 
 #
-# News
+# Youtube based live TV, mostly streams
 #
 
-#EXTINF:-1,Kalaignar Seithikal (576p) [Not 24/7]
-#EXTGRP: Tamil (தமிழ்)
-http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8
-
 #
-# Youtube based live TV (mostly news)
+# Others
 #
 
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Channel" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="UK",Comedy Channel UK
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
