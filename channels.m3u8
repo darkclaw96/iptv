@@ -12,7 +12,7 @@ http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3
 #EXTGRP: Tamil (தமிழ்)
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="3 Tamil (HD)" tvg-language="Tamil" tvg-logo="https://threetamil.tv/wp-content/uploads/2020/08/3Tamil_logo_white.png", 3Tamil TV (720p)
+#EXTINF:-1 tvg-name="3 Tamil (HD)" tvg-language="Tamil" tvg-logo="https://threetamil.tv/wp-content/uploads/2020/08/3Tamil_logo_white.png",3Tamil TV (720p)
 #EXTGRP: Tamil (தமிழ்)
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
@@ -38,6 +38,10 @@ http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 #EXTGRP: Tamil (தமிழ்)
 http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
 
+#EXTINF:-1 tvg-name="Marutam (HD)" tvg-language="Tamil" tvg-logo="",Marutam TV (720p)
+#EXTGRP: Tamil (தமிழ்)
+http://mntv.livebox.co.in/mntvhls/mntv.m3u8
+
 #
 #
 
@@ -48,14 +52,6 @@ http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:-1,Imayam (480p)
 #EXTGRP: Tamil (தமிழ்)
 https://idvd.multitvsolution.com/idvo/imayamtv.m3u8
-
-#EXTINF:-1,Malaimurasu (480p)
-#EXTGRP: Tamil (தமிழ்)
-https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
-
-#EXTINF:-1,Marutam TV (720p)
-#EXTGRP: Tamil (தமிழ்)
-http://mntv.livebox.co.in/mntvhls/mntv.m3u8
 
 #EXTINF:-1,MK Six (576p)
 #EXTGRP: Tamil (தமிழ்)
