@@ -85,10 +85,6 @@ http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
 #EXTGRP: Tamil (தமிழ்)
 http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
 
-#EXTINF:-1,Sathiyam TV (1080p) [Not 24/7]
-#EXTGRP: Tamil (தமிழ்)
-https://www.youtube.com/channel/UC2ziCMHFPWkFHjocUMXT__Q/live
-
 #EXTINF:-1,Tamil Vision TV (1080p)
 #EXTGRP: Tamil (தமிழ்)
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
@@ -99,8 +95,17 @@ http://14.199.164.20:4001/play/a0nx/index.m3u8
 
 
 #
-# Youtube based live TV, mostly streams
+# Youtube live TV, mostly streams
 #
+
+#EXTINF:-1  tvg-id="" tvg-name="YT Jazz Piano" tvg-logo="" group-title="Music",YT Jazz Piano
+https://youtu.be/Dx5qFachd3A
+
+#EXTINF:-1  tvg-id="" tvg-name="YT Good Life Radio" tvg-logo="" group-title="Music",YT Good Life Radio
+https://youtu.be/36YnV9STBqc
+
+#EXTINF:-1  tvg-id="" tvg-name="YT Lofi Hiphop" tvg-logo="" group-title="Music",YT Lofi Hiphop
+https://youtu.be/5qap5aO4i9A
 
 #
 # Others
