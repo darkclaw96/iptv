@@ -1,23 +1,36 @@
 #EXTM3U x-tvg-url="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/India/whatsonindia.com.channels.xml"
 
-#EXTINF:-1 tvg-id="KalaignarTV" tvg-language="Tamil" tvg-logo="https://i.imgur.com/MYZ6EXU.png",Kalaignar TV
+#EXTINF:-1 tvg-name="Kalaignar TV" tvg-language="Tamil" tvg-logo="https://i.imgur.com/MYZ6EXU.png",Kalaignar TV (SD)
 #EXTGRP: Tamil (தமிழ்)
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 
-#EXTINF:-1 tvg-id="SanthoraTV" tvg-language="Tamil" tvg-logo="http://santhora.tv/wp-content/uploads/2019/05/header-logo-anim.gif",Santhora TV
+#EXTINF:-1 tvg-name="Santhora TV" tvg-language="Tamil" tvg-logo="http://santhora.tv/wp-content/uploads/2019/05/header-logo-anim.gif",Santhora TV
 #EXTGRP: Tamil (தமிழ்)
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
 
-#EXTINF:-1 tvg-id="AdhavanHDTV" tvg-language="Tamil" tvg-logo="http://athavantv.com/wp-content/uploads/2019/06/xathavantv1.png.pagespeed.ic.rypwtIs9Ft.png", Adhavan HD TV
+#EXTINF:-1 tvg-name="Adhavan TV" tvg-language="Tamil" tvg-logo="http://athavantv.com/wp-content/uploads/2019/06/xathavantv1.png.pagespeed.ic.rypwtIs9Ft.png", Adhavan TV (HD)
 #EXTGRP: Tamil (தமிழ்)
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="3TamilTV" tvg-language="Tamil" tvg-logo="https://threetamil.tv/wp-content/uploads/2020/08/3Tamil_logo_white.png", 3Tamil TV
+#EXTINF:-1 tvg-name="3TamilTV" tvg-language="Tamil" tvg-logo="https://threetamil.tv/wp-content/uploads/2020/08/3Tamil_logo_white.png", 3Tamil TV
 #EXTGRP: Tamil (தமிழ்)
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
 #
-# 
+
+#EXTINF:-1 tvg-name="Relax TV" tvg-language="Tamil" tvg-logo="",Relax TV (SD)
+#EXTGRP: Tamil (தமிழ்)
+http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR
+
+#EXTINF:-1 tvg-name="Tamil Vision TV" tvg-language="Tamil" tvg-logo="",Tamil Vision TV (HD)
+#EXTGRP: Tamil (தமிழ்)
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Vaanavil" tvg-language="Tamil" tvg-logo="",Vaanvavil (SD)
+#EXTGRP: Tamil (தமிழ்)
+http://14.199.164.20:4001/play/a0nx/index.m3u8
+
+#
 #
 
 #EXTINF:-1,7S Music (576p) [Not 24/7]
@@ -73,19 +86,6 @@ http://cdn.asianetmobiletvplus.com/channels/polimertv_rpvpvdefkpxbafsouzockpitjl
 #EXTGRP: Tamil (தமிழ்)
 http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
 
-#EXTINF:-1,Relax TV (576p) [Not 24/7]
-#EXTGRP: Tamil (தமிழ்)
-http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR
-
-#EXTINF:-1,Tamil Vision TV (1080p)
-#EXTGRP: Tamil (தமிழ்)
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-
-#EXTINF:-1,Vaanvavil (576p) [Not 24/7]
-#EXTGRP: Tamil (தமிழ்)
-http://14.199.164.20:4001/play/a0nx/index.m3u8
-
-
 #
 # Youtube live streams
 #
@@ -104,5 +104,5 @@ https://youtu.be/5qap5aO4i9A
 # Others
 #
 
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Channel UK" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="UK",Comedy Channel UK
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Channel UK" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="UK",Comedy Channel
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
