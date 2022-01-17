@@ -34,6 +34,9 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1 tvg-logo="http://santhora.tv/wp-content/uploads/2019/05/header-logo-anim.gif" group-title="Tamil (தமிழ்)",Santhora TV
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
 
-#EXTINF:-1 tvg-logo="http://athavantv.com/wp-content/uploads/2019/06/xathavantv1.png.pagespeed.ic.rypwtIs9Ft.png"  group-title="Tamil (தமிழ்)", ADHAVAN HD TV
+#EXTINF:-1 tvg-logo="http://athavantv.com/wp-content/uploads/2019/06/xathavantv1.png.pagespeed.ic.rypwtIs9Ft.png" group-title="Tamil (தமிழ்)", ADHAVAN HD TV
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://threetamil.tv/wp-content/uploads/2020/08/3Tamil_logo_white.png" group-title="Tamil (தமிழ்)", 3 TAMIL
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
