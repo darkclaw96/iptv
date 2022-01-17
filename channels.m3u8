@@ -87,20 +87,6 @@ http://cdn.asianetmobiletvplus.com/channels/polimertv_rpvpvdefkpxbafsouzockpitjl
 http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
 
 #
-# Youtube live streams
-#
-
-#EXTINF:-1  tvg-id="" tvg-name="YT Jazz Piano" tvg-logo="https://www.youtube.com/img/desktop/yt_1200.png" group-title="Music",YT Jazz Piano
-https://youtu.be/Dx5qFachd3A
-
-#EXTINF:-1  tvg-id="" tvg-name="YT Good Life Radio" tvg-logo="https://www.youtube.com/img/desktop/yt_1200.png" group-title="Music",YT Good Life Radio
-https://youtu.be/36YnV9STBqc
-
-#EXTINF:-1  tvg-id="" tvg-name="YT Lofi Hiphop" tvg-logo="https://www.youtube.com/img/desktop/yt_1200.png" group-title="Music",YT Lofi Hiphop
-https://youtu.be/5qap5aO4i9A
-
-
-#
 # Others
 #
 
