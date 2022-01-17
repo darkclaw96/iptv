@@ -69,10 +69,6 @@ http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8
 #EXTVLCOPT:http-user-agent=AsianetMobileTVPlus
 http://cdn.asianetmobiletvplus.com/channels/polimertv_rpvpvdefkpxbafsouzockpitjldtogrr/chunks.m3u8
 
-#EXTINF:-1,Puthiya Thalaimurai (1080p) [Not 24/7]
-#EXTGRP: Tamil (தமிழ்)
-https://www.youtube.com/channel/UCmyKnNRH0wH-r8I-ceP-dsg/live
-
 #EXTINF:-1,Puthuyugam TV (576p) [Not 24/7]
 #EXTGRP: Tamil (தமிழ்)
 http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
@@ -101,13 +97,6 @@ http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 #EXTGRP: Tamil (தமிழ்)
 http://14.199.164.20:4001/play/a0nx/index.m3u8
 
-#EXTINF:-1,Velicham (360p) [Not 24/7]
-#EXTGRP: Tamil (தமிழ்)
-https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
-
-#EXTINF:-1,Yupp Thirai (270p)
-#EXTGRP: Tamil (தமிழ்)
-http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
 
 #
 # Youtube based live TV, mostly streams
