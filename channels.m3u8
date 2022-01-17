@@ -26,3 +26,6 @@ https://ibccomedy-live.ibctamil.com/transcode/ibccomedy_std.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/MYZ6EXU.png" group-title="Tamil",Kalaignar TV 
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/706800739776143360/P38PX84d.jpg" group-title="Tamil (தமிழ்)",Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
