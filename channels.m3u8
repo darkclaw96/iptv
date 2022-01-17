@@ -77,14 +77,6 @@ http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
 #EXTGRP: Tamil (தமிழ்)
 http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR
 
-#EXTINF:-1,Sana Plus (720p) [Not 24/7]
-#EXTGRP: Tamil (தமிழ்)
-http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
-
-#EXTINF:-1,Sana TV (576p) [Not 24/7]
-#EXTGRP: Tamil (தமிழ்)
-http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
-
 #EXTINF:-1,Tamil Vision TV (1080p)
 #EXTGRP: Tamil (தமிழ்)
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
