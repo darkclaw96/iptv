@@ -117,5 +117,5 @@ http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
 # Others
 #
 
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Channel" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="UK",Comedy Channel UK
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Channel UK" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="UK",Comedy Channel UK
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
