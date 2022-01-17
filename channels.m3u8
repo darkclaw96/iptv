@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/India/whatsonindia.com.channels.xml"
 
-#EXTINF:-1 tvg-id="1" tvg-name="Kalaignar (SD)" tvg-language="Tamil" tvg-logo="https://i.imgur.com/MYZ6EXU.png",Kalaignar TV (576p)
+#EXTINF:-1 tvg-id="" tvg-name="Kalaignar (SD)" tvg-language="Tamil" tvg-logo="https://i.imgur.com/MYZ6EXU.png",Kalaignar TV (576p)
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="Santhora (HD)" tvg-language="Tamil" tvg-logo="http://santhora.tv/wp-content/uploads/2019/05/header-logo-anim.gif",Santhora TV (720p)
+#EXTINF:-1 tvg-id="" tvg-name="Santhora (HD)" tvg-language="Tamil" tvg-logo="http://santhora.tv/wp-content/uploads/2019/05/header-logo-anim.gif",Santhora TV (720p)
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-name="Adhavan (HD)" tvg-language="Tamil" tvg-logo="http://athavantv.com/wp-content/uploads/2019/06/xathavantv1.png.pagespeed.ic.rypwtIs9Ft.png", Adhavan TV (720p)
+#EXTINF:-1 tvg-id="" tvg-name="Adhavan (HD)" tvg-language="Tamil" tvg-logo="http://athavantv.com/wp-content/uploads/2019/06/xathavantv1.png.pagespeed.ic.rypwtIs9Ft.png", Adhavan TV (720p)
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-name="3 Tamil (HD)" tvg-language="Tamil" tvg-logo="https://threetamil.tv/wp-content/uploads/2020/08/3Tamil_logo_white.png",3Tamil TV (720p)
+#EXTINF:-1 tvg-id="" tvg-name="3 Tamil (HD)" tvg-language="Tamil" tvg-logo="https://threetamil.tv/wp-content/uploads/2020/08/3Tamil_logo_white.png",3Tamil TV (720p)
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
 #
@@ -42,3 +42,9 @@ http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8
 #
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Channel UK" tvg-language="English" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="UK",Comedy Channel
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+
+#
+#
+# For New Entries
+# #EXTINF:-1 tvg-id="123" tvg-name="Channel name to be shown" tvg-language="Language" tvg-logo="https://" group-title="Group name",Channel name
+# https://
