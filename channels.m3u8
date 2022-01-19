@@ -35,6 +35,10 @@ http://mntv.livebox.co.in/mntvhls/mntv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Channel UK" tvg-language="English" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="UK"
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 
+# Afrobeats
+#EXTINF:-1 tvg-id="Afrobeats.uk" tvg-name="Afrobeats UK (HD)" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Iaey8k5.jpg" group-title="Music",Afrobeats (1080p)
+https://stream.ecable.tv/afrobeats/index.m3u8
+
 #
 #
 # For New Entries
