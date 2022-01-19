@@ -11,9 +11,6 @@ http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 # 3Tamil TV (720p)
 #EXTINF:-1 tvg-id="" tvg-name="3 Tamil (HD)" tvg-language="Tamil" tvg-logo="https://threetamil.tv/wp-content/uploads/2020/08/3Tamil_logo_white.png"
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-# Relax TV (576p)
-#EXTINF:-1 tvg-id="" tvg-name="Relax TV (SD)" tvg-language="Tamil" tvg-logo="" group-title="Tamil (தமிழ்)"
-http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR
 # Tamil Vision TV (1080p)
 #EXTINF:-1 tvg-id="" tvg-name="Tamil Vision (HD)" tvg-language="Tamil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/TVI_HD_logo.png" group-title="Tamil (தமிழ்)"
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
