@@ -32,9 +32,21 @@ http://mntv.livebox.co.in/mntvhls/mntv.m3u8
 # Comedy Channel UK
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Channel (HD)" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="UK"
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
-# Afrobeats UK
-#EXTINF:-1 tvg-id="Afrobeats.uk" tvg-name="Afrobeats (HD)" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Iaey8k5.jpg" group-title="Music",Afrobeats (1080p)
+# Afrobeats UK (1080p)
+#EXTINF:-1 tvg-id="Afrobeats.uk" tvg-name="Afrobeats (HD)" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Iaey8k5.jpg" group-title="Music"
 https://stream.ecable.tv/afrobeats/index.m3u8
+# Moviesphere US (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="Moviesphere (HD)" tvg-language="English" tvg-logo="" group-title="Movies"
+https://moviesphere-samsung-samsungus.amagi.tv/playlist1080p.m3u8
+# AMC Rush US (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="AMC Rush (HD)" tvg-language="English" tvg-logo="" group-title="Movies"
+https://amc-rushbyamc-1.vizio.wurl.com/manifest/4300.m3u8
+# PopCornFlix Action US (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="PopCornFlix Action (HD)" tvg-language="English" tvg-logo="" group-title="Movies"
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/chunklist_w610883976.m3u8
+# AMC IFC Film Picks (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="IFC Film Picks (HD)" tvg-language="English" tvg-logo="" group-title="Movies"
+https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/4300.m3u8
 
 #
 #
