@@ -31,9 +31,6 @@ https://amc-rushbyamc-1.vizio.wurl.com/manifest/4300.m3u8
 # PopCornFlix Action US (1080p)
 #EXTINF:-1 tvg-id="" tvg-name="PopCornFlix Action (HD)" tvg-language="English" tvg-logo="" group-title="Movies"
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/chunklist_w610883976.m3u8
-# AMC IFC Film Picks (1080p)
-#EXTINF:-1 tvg-id="" tvg-name="IFC Film Picks (HD)" tvg-language="English" tvg-logo="" group-title="Movies"
-https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/4300.m3u8
 
 # Unstable/choppy
 # Kalaignar TV (576p)
